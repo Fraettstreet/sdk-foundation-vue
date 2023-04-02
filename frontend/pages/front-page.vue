@@ -1,3 +1,3 @@
 <template>
-  <p>This is a test page uh yea</p>
+  <p>Simple php backend and vue3 frontend. Trying CI here.</p>
 </template>
